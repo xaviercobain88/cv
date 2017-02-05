@@ -6,8 +6,7 @@
 
 * **Microservices Architecture Adoption**
   * [Overview and challenges of Adopting Microservices](overview-and-challenges-of-adopting-microservices.md)
-
-
+  * 
 
 
 
